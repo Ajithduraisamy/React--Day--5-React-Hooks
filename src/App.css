@@ -1,0 +1,26 @@
+input {
+  width: 400px;
+}
+.card {
+  margin-top: 25px;
+}
+.icons {
+  display: flex;
+  justify-content: end;
+  align-items: start;
+  margin: 10px;
+}
+.delete-icon {
+  padding-left: 5px;
+}
+.filter {
+  display: flex;
+  justify-content: space-between;
+  padding-top: 50px;
+}
+.btn-success {
+  width: 200px;
+}
+.heading-text {
+  color: forestgreen;
+}
